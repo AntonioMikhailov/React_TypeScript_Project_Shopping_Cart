@@ -1,0 +1,49 @@
+* {
+  margin: 0px 0px 0px 0px;
+padding: 0px;
+}
+button {
+  border: none;
+  outline: none;
+  
+}
+
+.shopping-btn {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(12, 121, 222);
+  padding: 10px;
+  border-radius:5px;
+  transition: all 0.3s ease .0s;
+  
+}
+
+.shopping-btn:hover {
+  background-color: rgb(68, 156, 239);
+}
+.shopping-btn img {
+  position: relative;
+  top: -3px;
+}
+
+.shopping-innerBtn {
+  position: absolute;
+  bottom: -15px;
+  right: -5px;
+  width: 22px;
+  height: 22px;
+  background-color: rgb(209, 13, 13);
+  border-radius: 50%;
+  color: rgb(254, 254, 254);
+  font-size: 14px; 
+  }
+
+  .offCanvas {
+    transition: all 0.3s ease .0s;
+    
+  }
+  .title-item {
+    font-size: 25px;
+  }
+  
