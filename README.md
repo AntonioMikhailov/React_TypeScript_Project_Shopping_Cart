@@ -12,7 +12,7 @@
 
 &nbsp;
 ## Используемые языки, технологии, пакеты:
--	React JS (Hooks), Type Script, HTML, SCSS
+-	React JS (Hooks), TypeScript, HTML, SCSS
 -	Vite, Create-react-app, react-bootstrap
 
 
