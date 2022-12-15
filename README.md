@@ -1,5 +1,6 @@
 # React_TypeScript_Project_Shopping_Cart
-
+##### Ссылка на хостинг где можно увидеть сборку модуля
+[Сборка модуля для просмотра на ПК](http://antoniom.beget.tech/shoppingcart/ 'React_TypeScript_Project_Shopping_Cart')
 
 
  
