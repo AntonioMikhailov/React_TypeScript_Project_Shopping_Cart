@@ -1,6 +1,6 @@
 # React_TypeScript_Project_Shopping_Cart
 ##### Ссылка на хостинг где можно увидеть сборку модуля
-[Сборка модуля для просмотра на ПК](http://antoniom.beget.tech/shoppingcart/ 'React_TypeScript_Project_Shopping_Cart'){:target="_blank"}
+[Сборка модуля для просмотра на ПК](http://antoniom.beget.tech/shoppingcart/ 'React_TypeScript_Project_Shopping_Cart') 
 
 
  
@@ -21,6 +21,7 @@
 ## Реализация функционала и логики
 -	Ход работы и ключевые моменты разработки описаны в комментариях внутри рабочих файлов модуля 
 - **Особенности реализации проекта:**
+    - в  виду особенностей работы сборщика Vite, при сборке модуля просмотр возможен только с локального сервера ( live Server VS Code) или с хостинга провайдера. Ссылку на сборку модуля см. выше.
     -	в процессе работы логика реализована с помощь Хуков : useState, UseEffect,  createContext, Intl.NumberFormat, модуль react-router-dom
   
     
